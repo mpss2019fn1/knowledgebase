@@ -7,3 +7,4 @@
 # Interesting approaches worth to investigate further
 
 * [Word Embeddings for Entity annotated texts](https://dbs.ifi.uni-heidelberg.de/files/Team/aspitz/publications/Almasian_et_al_2019_Word_Embeddings_for_Entity-annotated_Texts.pdf)
+* [Vector Embedding of Wikipedia Concepts and Entities](https://arxiv.org/abs/1702.03470)
