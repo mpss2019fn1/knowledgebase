@@ -9,3 +9,11 @@
 
 * [Word Embeddings for Entity annotated texts](https://dbs.ifi.uni-heidelberg.de/files/Team/aspitz/publications/Almasian_et_al_2019_Word_Embeddings_for_Entity-annotated_Texts.pdf)
 * [Vector Embedding of Wikipedia Concepts and Entities](https://arxiv.org/abs/1702.03470)
+
+# Tools
+
+## Entity Linking
+* OpenTapioca ([Demo](https://opentapioca.org/), [Source Code](https://github.com/wetneb/opentapioca), [Paper](https://arxiv.org/abs/1904.09131))
+* [Wikilinks NEL](https://github.com/wikilinks/nel)
+* [DBpedia spotlight](https://www.dbpedia-spotlight.org/demo/)
+* [ambiverse-nlu](https://github.com/ambiverse-nlu/ambiverse-nlu)
