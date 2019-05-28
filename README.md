@@ -25,3 +25,8 @@
 * [Wikilinks NEL](https://github.com/wikilinks/nel)
 * [DBpedia spotlight](https://www.dbpedia-spotlight.org/demo/)
 * [ambiverse-nlu](https://github.com/ambiverse-nlu/ambiverse-nlu)
+
+# Benchmarking Paper
+
+* [Evaluation methods for unsupervised word embeddings](https://www.aclweb.org/anthology/D15-1036)
+* [WordRep: A Benchmark for Research on Learning Word Representations](https://arxiv.org/pdf/1407.1640.pdf)
