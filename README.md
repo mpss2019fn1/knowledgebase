@@ -30,3 +30,6 @@
 
 * [Evaluation methods for unsupervised word embeddings](https://www.aclweb.org/anthology/D15-1036)
 * [WordRep: A Benchmark for Research on Learning Word Representations](https://arxiv.org/pdf/1407.1640.pdf)
+* [Word Embeddings Evaluation and Combination](http://www.lrec-conf.org/proceedings/lrec2016/pdf/392_Paper.pdf)
+* [Automatic generation of tunable analogy benchmarks for word representations
+](https://www.ideals.illinois.edu/handle/2142/92859)
