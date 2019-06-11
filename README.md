@@ -34,7 +34,10 @@
 * [Automatic generation of tunable analogy benchmarks for word representations
 ](https://www.ideals.illinois.edu/handle/2142/92859)
 
-# BigGraph Facebook (Trained Embeddings on Kowledgegraph from WikiData)
+# BigGraph Facebook 
+Trained Embeddings on Knowledge-Graph from WikiData as Knowledgebase
+> PyTorch-BigGraph (PBG) is a distributed system for learning graph embeddings for large graphs, particularly big web interaction graphs with up to billions of entities and trillions of edges.
+> PBG was introduced in the PyTorch-BigGraph: A Large-scale Graph Embedding Framework paper, presented at the SysML conference in 2019.
 * [PyTorch-BigGraph: A Large-Scale Graph Embedding System](https://www.sysml.cc/doc/2019/71.pdf)
 * [Source Code](https://github.com/facebookresearch/PyTorch-BigGraph)
 * [Training Data Source](https://dl.fbaipublicfiles.com/starspace/fb15k.tgz)
