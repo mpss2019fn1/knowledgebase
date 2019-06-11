@@ -36,3 +36,7 @@
 
 # BigGraph Facebook (Trained Embeddings on Kowledgegraph from WikiData)
 * [PyTorch-BigGraph: A Large-Scale Graph Embedding System](https://www.sysml.cc/doc/2019/71.pdf)
+* [Source Code](https://github.com/facebookresearch/PyTorch-BigGraph)
+* [Training Data Source](https://dl.fbaipublicfiles.com/starspace/fb15k.tgz)
+* [Pre-Trained Embedding (36GiB, gzip-compressed)](https://dl.fbaipublicfiles.com/torchbiggraph/wikidata_translation_v1.tsv.gz)
+
