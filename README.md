@@ -33,3 +33,6 @@
 * [Word Embeddings Evaluation and Combination](http://www.lrec-conf.org/proceedings/lrec2016/pdf/392_Paper.pdf)
 * [Automatic generation of tunable analogy benchmarks for word representations
 ](https://www.ideals.illinois.edu/handle/2142/92859)
+
+# BigGraph Facebook (Trained Embeddings on Kowledgegraph from WikiData)
+* [PyTorch-BigGraph: A Large-Scale Graph Embedding System](https://www.sysml.cc/doc/2019/71.pdf)
