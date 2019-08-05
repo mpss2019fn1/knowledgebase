@@ -12,6 +12,7 @@
 
 * [Word Embeddings for Entity annotated texts](https://dbs.ifi.uni-heidelberg.de/files/Team/aspitz/publications/Almasian_et_al_2019_Word_Embeddings_for_Entity-annotated_Texts.pdf)
 * [Vector Embedding of Wikipedia Concepts and Entities](https://arxiv.org/abs/1702.03470)
+* Probing for Semantic Classes: Diagnosing the Meaning Content of Word Embeddings ([blog post](https://www.microsoft.com/en-us/research/blog/analyzing-ambiguity-and-word-embeddings-by-probing-semantic-classes/), [paper](https://www.microsoft.com/en-us/research/publication/probing-for-semantic-classes-diagnosing-the-meaning-content-of-word-embeddings/))
 
 # Survey Paper
 
